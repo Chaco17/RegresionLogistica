@@ -1,0 +1,5 @@
+# Normalizar finales de línea
+* text=auto
+
+*.ipynb linguist-language=Jupyter\ Notebook
+*.csv text
