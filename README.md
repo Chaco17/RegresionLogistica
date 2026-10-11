@@ -10,7 +10,7 @@ Implementación de **regresión logística con PyTorch** para clasificar vinos t
 |---|---|
 | Sebastián Chacón Muñoz | 2023221908 |
 | Daniel Pulido Castagno | |
-| Sebastián Muñoz | |
+| Sebastián Muñoz Morera | 2023090681 |
 
 ## Dataset
 
