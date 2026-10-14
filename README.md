@@ -16,7 +16,7 @@ Implementación de **regresión logística con PyTorch** para clasificar vinos t
 
 [Red Wine Quality (Cortez et al., 2009)](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009): 1599 vinos tintos, 11 variables fisicoquímicas y una calificación `quality` (0–10).
 
-La variable objetivo se binariza como `target = 1 (BUENO)` si `quality >= 7`, y `0 (MALO)` en otro caso. La justificación está en el notebook.
+La variable objetivo se binariza como `target = 1 (BUENO)` si `quality >= 6`, y `0 (MALO)` en otro caso. La justificación está en el notebook.
 
 ## Contenido del notebook
 
